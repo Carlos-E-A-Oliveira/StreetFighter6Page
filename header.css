@@ -1,0 +1,84 @@
+* 
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+head
+{
+    width: 100vw;
+    height: 50px;
+    position: fixed;
+    /*display: block;*/
+    
+}
+
+.sessao1
+{
+    background-color: black;
+    height: 50px;
+    align-content: center;
+    
+    /*position: fixed;*/
+}
+.sony-logo
+{
+    float: right;
+    background-image: url(./img/sony-logo.png);
+    background-size: cover;
+    width: 120px;
+    height: 40px;
+    
+}
+.sessao2
+{
+    background-color: white;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.SF6-logo
+{
+    
+    background-image: url(./img/street-fighter-6-logo.jpg);
+    background-size: cover;
+    width: 160px;
+    height: 40px;
+    border-radius: 50%;
+    
+}
+.menu
+{
+    background-color: transparent;
+    border-radius: 10px;
+    margin: 10px 20px 10px;
+    padding: 0px 10px 0px 10px;
+    transition: 0.5s;
+    cursor: pointer;
+    
+}
+
+.menu:hover
+{
+    background-color: rgb(197, 195, 211);
+}
+
+.menu_tx
+{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align: justify;
+}
+.ps-logo
+{
+    float: right;
+    background-image: url(./img/ps-logo.png);
+    background-size: cover;
+    width: 50px;
+    height: 40px;
+    
+    
+}

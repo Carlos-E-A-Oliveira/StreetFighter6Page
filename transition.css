@@ -1,0 +1,84 @@
+* 
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.transition
+{
+    margin-top: 600px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    height: 130px;
+    background-color: black;
+    color: aliceblue;
+    padding-top: 15px;
+    
+    
+
+}
+.transition1
+{
+    margin-left: 17vw;
+    display: flex;
+   
+}
+.transition_box1
+{
+    display: flex;
+    margin-top: 5px;
+}
+.psplus
+{
+    background-image: url(./img/psplus.png);
+    background-size: cover;
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+    
+}
+
+.purchable
+{
+    background-image: url(./img/purchable.png);
+    background-size: cover;
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+}
+
+.multi
+{
+    background-image: url(./img/multi.bmp);
+    background-size: 20px;
+    background-repeat: no-repeat;
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+}
+.mobile_transition
+{
+    display: flex;
+}
+
+.esrb
+{
+    background-image: url(./img/esrb.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 70px;
+    height: 100px;
+    margin-left: 20vw;
+    margin-right: 5px;
+    
+}
+.esrb_text
+{
+    margin-top: 40px;
+    font-size: 10px;
+    align-items:end;
+    text-align:justify;
+    width: 15vw;
+    height: 130px;
+}

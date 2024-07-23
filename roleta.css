@@ -1,0 +1,145 @@
+
+.carrocel
+{
+    position: absolute;
+    z-index: 1;
+    background-color: rgb(37, 32, 43);
+    height: 300px;
+    width: 100px;
+    display: flex;
+    transition: 0.2s;
+    
+
+}
+
+.info
+{
+    z-index: 100;
+    color: aliceblue;
+}
+
+.roleta
+{
+    gap: 10px;
+    display: flex;
+    
+}
+
+.roll_left, .roll_right
+{   
+    position: absolute;
+    z-index: 2;
+    width: 60px;
+    height: 60px;
+    background-color: aliceblue;
+    border-radius: 50%;
+    margin-top: 120px;
+    cursor: pointer;
+    
+    
+}
+.roll_left
+{
+    background-image: url(./img/button_right.jpeg);
+    background-size: cover;
+    background-position: center;
+    transform:scaleX(-1); /* inverte a imagem dentro da div */
+    margin-left: 20px;
+}
+.roll_right
+{
+    background-image: url(./img/button_right.jpeg);
+    background-size: cover;
+    background-position: center;
+    margin-left: 90vw;
+    
+}
+
+.rol1, .rol2, .rol3, .rol4, .rol5
+{   
+    position: relative;
+    background-color: transparent;
+    height: 250px;
+    margin-top: 25px;
+    width: 450px;
+    border-radius: 4%;
+    transition: 0.2s;
+    box-shadow: 0 0 20px rgb(0,0,0);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    cursor: pointer;
+    
+}
+
+.rol1
+{
+    /* margin-left: 5px; */
+    background-image: url(./img/flag1.jpeg);
+    
+}
+.rol2
+{
+    background-image: url(./img/flag2.jpeg);
+}
+.rol3
+{
+    background-image: url(./img/flag3.jpeg);
+    
+}
+.rol4
+{
+    background-image: url(./img/flag4.jpeg);
+    
+}
+.rol5
+{
+    background-image: url(./img/flag5.jpeg);
+   
+}
+.rol1:hover, .rol2:hover, .rol3:hover, .rol4:hover, .rol5:hover 
+{   
+    margin-top: 21px;
+    width: 460px;
+    height: 260px;
+    
+
+}
+.roleta_option
+{
+    position: absolute;
+    z-index: 1; 
+    margin-top: 300px;   
+    width: 100%;
+    height: 40px;
+    background-color: rgb(37, 32, 43);
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    
+    
+}
+.mark1
+{
+    width: 10px;
+    height: 10px;
+    background-color: white;
+    border-radius: 50%;
+    transition: 0.2s;
+}
+.mark2, .mark3, .mark4, .mark5
+{   
+    
+    width: 10px;
+    height: 10px;
+    background-color: rgb(64, 54, 77);
+    border-radius: 50%;
+    transition: 0.2s;
+    
+    
+}
+
+.mark1:hover, .mark2:hover, .mark3:hover, .mark4:hover, .mark5:hover
+{
+    background-color: white;
+}
