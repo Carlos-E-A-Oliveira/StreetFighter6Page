@@ -1,1 +1,1 @@
-# StreetFighter6Page
+# StreetFighter6.WebPage
