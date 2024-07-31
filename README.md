@@ -25,3 +25,5 @@
  No print acima temos o resultado de clicar em um dos elementos do carrocel: reprodução de vídeo.
  <br><br>
  ![Imagem 4](Pag4.png)
+ <br><br>
+ Conclusão: Entregando uma página web sólida, responsiva e com elementos que me trouxeram desafios, como foi o caso do "carrocel" de elementos, fiquei satisfeito com o resultado apresentado.
