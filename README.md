@@ -6,7 +6,7 @@
  <br><br>
  Tecnologias utilizadas:
  <br><br>
- ![Imagem 1](PikPng.com_html5-logo-png_5977109.png)
+ <img src="PikPng.com_html5-logo-png_5977109.png" width="40" height="30" alt="Tecnologias">
  <br><br>
  ![Imagem 1](Pag1.png)
  <br><br>
