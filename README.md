@@ -6,11 +6,7 @@
  <br><br>
  Tecnologias utilizadas:
  <br><br>
- HTML5
- <br><br>
- CSS3
- <br><br>
- JavaScript
+ ![Imagem 1](PikPng.com_html5-logo-png_5977109.png)
  <br><br>
  ![Imagem 1](Pag1.png)
  <br><br>
