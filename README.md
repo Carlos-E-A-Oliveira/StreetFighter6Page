@@ -1,4 +1,4 @@
-<h1 style="text-align:center;">Street Fighter6 WebPage</h1>
+<h1 align="center">Street Fighter6 WebPage</h1>
 
  Web Site que simula uma página do jogo Street Fighter 6
  <br><br>
