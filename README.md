@@ -12,7 +12,7 @@
  <br><br>
  Acima temos a parte superior do site.
  <br><br>
- ![Imagem 2](Pag2.png)
+ ![Imagem 2](Animação.gif)
  <br><br>
  Na imagem supra temos o "carrocel" de elementos (confesso que foi o grande desafio da construção desta página).
  <br><br>
