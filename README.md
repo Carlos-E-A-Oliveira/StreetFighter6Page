@@ -2,7 +2,7 @@
 
  Web Site que simula uma página do jogo Street Fighter 6
  <br><br>
- Tomando como base a página oficial da Sony, repliquei as caracteríscas principais do site incluindo o "carrocel" de imagens interativas que,  ao serem clicadas, apresentam vídeos de seus temas.
+ Tomando como base a página oficial da Sony, repliquei as caracteríscas principais do site incluindo o "carrossel" de imagens interativas que,  ao serem clicadas, apresentam vídeos de seus temas.
  <br><br>
  Tecnologias utilizadas:
  <br><br>
@@ -14,7 +14,7 @@
  <br><br>
  ![Imagem 2](Animação.gif)
  <br><br>
- Na imagem supra temos o "carrocel" de elementos (confesso que foi o grande desafio da construção desta página).
+ Na imagem supra temos o "carrossel" de elementos (confesso que foi o grande desafio da construção desta página).
  <br><br>
  ![Imagem 3](Pag3.png)
  <br><br>
